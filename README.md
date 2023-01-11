@@ -7,12 +7,16 @@
   </div>
 </div>
 
-<body>
+---
+
 - 👋 Hi, I’m @Clausr
+
 - 👀 I’m interested in Android 
+
 - 🌱 I’m currently learning Compose
-- 📫 Reach me at decoid+github@gmail.com
-</body>
+
+- 📫 Reach me at [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/clausr/)
+
 
 <!---
 Clausr/Clausr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
