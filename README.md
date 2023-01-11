@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently learning Compose
 
-- 📫 Reach me at [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/clausr/)
+- 📫 Reach me at [![Linkedin Badge](https://img.shields.io/badge/Clausr-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/clausr/)
 
 
 <!---
