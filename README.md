@@ -1,3 +1,10 @@
+<div id="header" align="center">
+  <div id="badges">
+    <a href="https://www.linkedin.com/in/clausr/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+  </div>
+</div>
 - 👋 Hi, I’m @Clausr
 - 👀 I’m interested in Android 
 - 🌱 I’m currently learning Compose
